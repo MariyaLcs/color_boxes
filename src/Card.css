@@ -1,4 +1,5 @@
 .Card {
   height: 20em;
   width: 20em;
+  border: 2px solid rgb(110, 77, 77);
 }
