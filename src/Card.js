@@ -3,19 +3,16 @@ import { choice } from "./helpers";
 import "./Card.css";
 
 class Card extends Component {
-  static defaultProps = {
-    allCard: ["#010", "#020", "#030", "#040", "#050"],
-  };
   constructor(props) {
     super(props);
-    this.state = { color: choice(this.props.allCard) };
+    this.state = { color: choice(this.props.colors) };
     this.handleCLick = this.handleCLick.bind(this);
   }
 
   pickColor() {
     let newColor;
     do {
-      newColor = choice(this.props.allCard);
+      newColor = choice(this.props.colors);
     } while (newColor === this.state.color);
 
     this.setState({ color: newColor });
