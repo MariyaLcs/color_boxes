@@ -1,12 +1,12 @@
 import React from "react";
-import ColorBox from "./ColorBox";
+import Card from "./Card";
 
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <ColorBox />
+      <Card />
     </div>
   );
 }
