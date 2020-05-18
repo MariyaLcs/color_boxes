@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MariyaLcs/color_boxes/static/css/main.01b69597.chunk.css",
-    "main.js": "/MariyaLcs/color_boxes/static/js/main.bfe217bf.chunk.js",
-    "main.js.map": "/MariyaLcs/color_boxes/static/js/main.bfe217bf.chunk.js.map",
-    "runtime-main.js": "/MariyaLcs/color_boxes/static/js/runtime-main.27f8ad4a.js",
-    "runtime-main.js.map": "/MariyaLcs/color_boxes/static/js/runtime-main.27f8ad4a.js.map",
-    "static/js/2.3d4f4fd9.chunk.js": "/MariyaLcs/color_boxes/static/js/2.3d4f4fd9.chunk.js",
-    "static/js/2.3d4f4fd9.chunk.js.map": "/MariyaLcs/color_boxes/static/js/2.3d4f4fd9.chunk.js.map",
-    "index.html": "/MariyaLcs/color_boxes/index.html",
-    "precache-manifest.5c387310d40342b83e6728dc979bc03e.js": "/MariyaLcs/color_boxes/precache-manifest.5c387310d40342b83e6728dc979bc03e.js",
-    "service-worker.js": "/MariyaLcs/color_boxes/service-worker.js",
-    "static/css/main.01b69597.chunk.css.map": "/MariyaLcs/color_boxes/static/css/main.01b69597.chunk.css.map",
-    "static/js/2.3d4f4fd9.chunk.js.LICENSE.txt": "/MariyaLcs/color_boxes/static/js/2.3d4f4fd9.chunk.js.LICENSE.txt"
+    "main.css": "/color_boxes/static/css/main.01b69597.chunk.css",
+    "main.js": "/color_boxes/static/js/main.110e19ee.chunk.js",
+    "main.js.map": "/color_boxes/static/js/main.110e19ee.chunk.js.map",
+    "runtime-main.js": "/color_boxes/static/js/runtime-main.3efa5e32.js",
+    "runtime-main.js.map": "/color_boxes/static/js/runtime-main.3efa5e32.js.map",
+    "static/js/2.3d4f4fd9.chunk.js": "/color_boxes/static/js/2.3d4f4fd9.chunk.js",
+    "static/js/2.3d4f4fd9.chunk.js.map": "/color_boxes/static/js/2.3d4f4fd9.chunk.js.map",
+    "index.html": "/color_boxes/index.html",
+    "precache-manifest.0ad7a13ad68de7f43bd023e3cb5c4502.js": "/color_boxes/precache-manifest.0ad7a13ad68de7f43bd023e3cb5c4502.js",
+    "service-worker.js": "/color_boxes/service-worker.js",
+    "static/css/main.01b69597.chunk.css.map": "/color_boxes/static/css/main.01b69597.chunk.css.map",
+    "static/js/2.3d4f4fd9.chunk.js.LICENSE.txt": "/color_boxes/static/js/2.3d4f4fd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27f8ad4a.js",
+    "static/js/runtime-main.3efa5e32.js",
     "static/js/2.3d4f4fd9.chunk.js",
     "static/css/main.01b69597.chunk.css",
-    "static/js/main.bfe217bf.chunk.js"
+    "static/js/main.110e19ee.chunk.js"
   ]
 }
